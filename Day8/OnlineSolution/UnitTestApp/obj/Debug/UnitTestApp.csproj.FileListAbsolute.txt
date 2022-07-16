@@ -1,0 +1,8 @@
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_7\OnlineSolution\UnitTestApp\bin\Debug\UnitTestApp.exe.config
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_7\OnlineSolution\UnitTestApp\bin\Debug\UnitTestApp.exe
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_7\OnlineSolution\UnitTestApp\bin\Debug\UnitTestApp.pdb
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_7\OnlineSolution\UnitTestApp\obj\Debug\UnitTestApp.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_7\OnlineSolution\UnitTestApp\obj\Debug\UnitTestApp.csproj.SuggestedBindingRedirects.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_7\OnlineSolution\UnitTestApp\obj\Debug\UnitTestApp.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_7\OnlineSolution\UnitTestApp\obj\Debug\UnitTestApp.exe
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_7\OnlineSolution\UnitTestApp\obj\Debug\UnitTestApp.pdb

@@ -1,0 +1,131 @@
+
+	Agenda:
+		Database connectivity
+			Simple way:	Object Model------ADO.NET
+			ORM way
+			(Object Relation Mapping)----------Entity Framework & LINQ
+
+
+	
+		(ODBC)-------Open Database Connectivity---------connecting with Backend system
+			      in form of dll---------
+								
+		(1995)
+						Frontend-------(VB, VC++)
+						Backend--------( Oracle, Microsoft SQL Server,
+								 mySQL, MongoDB,etc.)
+
+		Ole-------Object Linking and Embedding
+
+		Java------JDBC-- Java Database Connecitity
+			  Hibernate-----ORM( Object Relational Mapping)
+
+		(2000)
+			Runtime-----.net Framework
+
+			ADO.net------Object Model
+					(ActiveX Data Objects)
+					interfaces
+					Classes, enumeration
+
+		(2008)
+			C# 3.0, LINQ
+			ADO.NET
+			ORM Technique for dontet developers
+					Entity Framework
+
+
+		ADO.NET
+				Object Model
+						using set of interfaces
+						      set of classes, enumeration
+
+						System.Data.dll Assembly
+								System.Data namespace
+
+									IDbConnection
+											Open
+											Close
+									IDbCommand
+											ExecuteReader
+											ExecuteNonQuery
+											ExeucteScalar
+									IDbDataReader
+											Read()
+									IDbDataAdapter
+											Fill
+											Update
+
+				 Managed Providers for Database ( .net Class Libraries)
+
+				  Managed Providers for  MySQL Database:mysqlClient.dll
+				  Managed Providers for  Oracle Database:oracledb.dll
+				  Managed Providers for  Microsoft SQL Database:system.Data.dll
+
+
+						
+								
+							mysqlClient.dll       oracledb.dll 		System.Data.SqlClient.dll  ThirdParty
+
+	
+							MySqlConnection		OracleConnection	SqlConnection
+							MySqlCommand		OracleCommand		SqlCommand
+							MySqlDataAdapter	OracleDataAdapter	SqlDataAdapter
+							MySqlDataReader		OracleDataReader	SqlDataReader
+
+
+
+
+
+
+	NTier Architecture (Six layer)
+			   (Six Tier Architecture)
+			
+
+	layer1-------layer2----------------layer3------------------layer4----------layer5-------------layer6
+
+
+	(Back End)				    (Business Logic)					       (Presentation)
+
+	Backend (Database)--------DataAccessLogic(DAL)-------Business Logic(BLL) -------- Business Object(BOL)----------Controller---------View
+
+	Stored Proc
+	Triggers
+	functions
+		   DAO
+	BL---------DAL-----------------------BLL------------------( MVC Layer   (Web Layer))-------------------------UI Layer
+		    (Data Access Logic Layer)  (Business Logic Layer)
+			( CRUD Operation)								
+
+	Employees	EmployeeDAL.cs		HRManager.cs	      Employees Collection   EmployeesController--------index.cshtml
+			 ADO.net		BLL		      Collection Framework	Controller		Views
+									Employee					details.cshtml
+															insert.cshtml
+															
+	Products	ProductDAL.cs
+	Customers	CustomerDAL.cs
+	Staff		StaffDAL.cs
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

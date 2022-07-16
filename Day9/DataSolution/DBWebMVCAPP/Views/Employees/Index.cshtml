@@ -1,0 +1,24 @@
+﻿@using BOL;
+
+@model IEnumerable<Employee>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>HR Department</h2>
+
+<a href="/home/index">Home</a> | <a href="/home/Aboutus">About us </a>| <a href="/home/contact">Contact us</a>| <a href="/employees/index">Employees </a>|<a href="/customers/index">Customers</a>
+
+<hr />
+<a href="/employees/insert">Insert new Employee</a>
+<hr />
+
+<br />
+
+<p>Existing Transflower Employees </p>
+@{
+    foreach (Employee emp in @Model)
+    {
+        <p> <a href="/employees/details/@emp.ID">@emp.Name   @emp.Designation </a></p>
+    }
+}

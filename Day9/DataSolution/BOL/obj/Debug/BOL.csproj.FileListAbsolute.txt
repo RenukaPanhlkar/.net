@@ -1,0 +1,6 @@
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_9\DataSolution\BOL\bin\Debug\BOL.dll
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_9\DataSolution\BOL\bin\Debug\BOL.pdb
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_9\DataSolution\BOL\obj\Debug\BOL.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_9\DataSolution\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_9\DataSolution\BOL\obj\Debug\BOL.dll
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_9\DataSolution\BOL\obj\Debug\BOL.pdb

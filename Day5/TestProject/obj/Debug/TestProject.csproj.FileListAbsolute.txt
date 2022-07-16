@@ -1,0 +1,15 @@
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_5\DataSolution\TestProject\bin\Debug\TestProject.exe.config
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_5\DataSolution\TestProject\bin\Debug\TestProject.exe
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_5\DataSolution\TestProject\bin\Debug\TestProject.pdb
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_5\DataSolution\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_5\DataSolution\TestProject\obj\Debug\TestProject.csproj.SuggestedBindingRedirects.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_5\DataSolution\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_5\DataSolution\TestProject\obj\Debug\TestProject.exe
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_5\DataSolution\TestProject\obj\Debug\TestProject.pdb
+C:\Users\cheta\OneDrive\Desktop\ravisirsolutions\Day5\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\cheta\OneDrive\Desktop\ravisirsolutions\Day5\TestProject\bin\Debug\TestProject.exe
+C:\Users\cheta\OneDrive\Desktop\ravisirsolutions\Day5\TestProject\bin\Debug\TestProject.pdb
+C:\Users\cheta\OneDrive\Desktop\ravisirsolutions\Day5\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\cheta\OneDrive\Desktop\ravisirsolutions\Day5\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\cheta\OneDrive\Desktop\ravisirsolutions\Day5\TestProject\obj\Debug\TestProject.exe
+C:\Users\cheta\OneDrive\Desktop\ravisirsolutions\Day5\TestProject\obj\Debug\TestProject.pdb

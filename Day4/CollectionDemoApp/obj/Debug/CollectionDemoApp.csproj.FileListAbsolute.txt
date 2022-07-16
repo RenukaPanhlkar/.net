@@ -1,0 +1,8 @@
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_4\DynamicSolution\CollectionDemoApp\bin\Debug\CollectionDemoApp.exe.config
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_4\DynamicSolution\CollectionDemoApp\bin\Debug\CollectionDemoApp.exe
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_4\DynamicSolution\CollectionDemoApp\bin\Debug\CollectionDemoApp.pdb
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_4\DynamicSolution\CollectionDemoApp\obj\Debug\CollectionDemoApp.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_4\DynamicSolution\CollectionDemoApp\obj\Debug\CollectionDemoApp.csproj.SuggestedBindingRedirects.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_4\DynamicSolution\CollectionDemoApp\obj\Debug\CollectionDemoApp.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_4\DynamicSolution\CollectionDemoApp\obj\Debug\CollectionDemoApp.exe
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_4\DynamicSolution\CollectionDemoApp\obj\Debug\CollectionDemoApp.pdb

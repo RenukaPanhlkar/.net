@@ -1,0 +1,133 @@
+
+Dotnet days 12 days
+
+Todays Agenda
+
+	ORM--Object Relation Mapping
+	     Entity Framework-----LINQ
+	     CRUD Operation
+		
+	Web API ( REST API)--------------Spring boot api
+
+	
+Tomorrows Agenda
+
+	Authentication & Authorization
+	WCF (Windows Communication Foundation)
+	Multithreading
+	
+
+
+Friday:
+	 Software Development Methodology  (  7 days )
+
+	   2 days week
+	   5 days next week 
+
+____________________________________________________________________________________________
+ORM--Object Relation Mapping
+	     Entity Framework-----LINQ
+	     CRUD Operation
+
+
+
+	Data Access------
+			  ODBC ( Open Database Connectivity)
+			  JDBC  ( Java Database Connectivity)
+
+			  ADO.net ( Activex Data Object)
+				  Connected DataAccess
+				  DisConnected DataAccess
+
+			ORM 
+				set of class libraries
+					
+				
+
+		Database				Application
+
+			
+			Collection of Tables		Collection of Classes
+
+		Table					Class
+
+			Collection Records		Collection of data members ( properties)
+		Record
+			data for each field			
+
+
+		Table					 DBSet
+		Recrod					 POCO Class
+			
+		Employees				 DbSet<Employee>
+
+
+
+
+Steps for implementing ORM
+1.Create a blank solution using Visual studio.net
+2.Create empty asp.net framework  with MVC folder inside application
+3.Download Entityframework and Mysql.Data.Entityframework packages using Nugget Package manager.
+4.Add POCO class Product in Models folder
+5.Map Product class with Products table using [Table] attribute.
+6.Add new folder DAL and create new DbOrmContext class .
+7.Dervice DbOrmContext Class from DBContext class.
+8.Add data member DbSet <Product> Products {get;set} property to DbOrmContext class.
+9.Add Connectionstring entry in web.config file
+10.Register Connectionstring with base class constructor in DbOrmContext class.
+
+
+
+
+_________________________________________________________________________________________________________________
+
+
+RouteConfig
+
+	Routing 
+	Route url parsing
+	App_Start folder 
+	App_Data folder
+
+
+Session Management
+What do you mean by Session ?
+
+Application Life Cycle for asp.net application
+	Global.asax----------Application_Start
+			     Session_Start
+						Home Controller Action method
+										index
+										details
+										aboutus
+						ProductsContoller ation method
+										index
+										details
+										update
+										delete
+
+			     Session_End
+			     Applicadtion_End
+
+
+________________________________________________________________________________________________________________________________
+
+
+Web API ( REST API)--------------Spring boot api
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 

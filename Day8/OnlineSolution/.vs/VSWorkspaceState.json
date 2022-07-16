@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CRMWebApp",
+    "\\CRMWebApp\\Controllers",
+    "\\CRMWebApp\\Images",
+    "\\CRMWebApp\\Models",
+    "\\CRMWebApp\\obj",
+    "\\CRMWebApp\\Properties",
+    "\\CRMWebApp\\Scripts",
+    "\\CRMWebApp\\Views",
+    "\\packages"
+  ],
+  "SelectedNode": "\\CRMWebApp\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}

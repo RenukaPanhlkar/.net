@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DataSolution",
+    "\\DataSolution\\BOL",
+    "\\DataSolution\\DAL",
+    "\\DataSolution\\DBWebMVCAPP",
+    "\\DataSolution\\DBWebMVCAPP\\Controllers",
+    "\\DataSolution\\DBWebMVCAPP\\Views",
+    "\\DataSolution\\DBWebMVCAPP\\Views\\Employees",
+    "\\DataSolution\\DBWebMVCAPP\\Views\\Home",
+    "\\DataSolution\\TestProject"
+  ],
+  "SelectedNode": "\\DataSolution\\BOL\\Employee.cs",
+  "PreviewInSolutionExplorer": false
+}

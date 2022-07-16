@@ -1,0 +1,8 @@
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_6\LINQSolution\CSharpAdvFeatureDemoApp\bin\Debug\CSharpAdvFeatureDemoApp.exe.config
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_6\LINQSolution\CSharpAdvFeatureDemoApp\bin\Debug\CSharpAdvFeatureDemoApp.exe
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_6\LINQSolution\CSharpAdvFeatureDemoApp\bin\Debug\CSharpAdvFeatureDemoApp.pdb
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_6\LINQSolution\CSharpAdvFeatureDemoApp\obj\Debug\CSharpAdvFeatureDemoApp.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_6\LINQSolution\CSharpAdvFeatureDemoApp\obj\Debug\CSharpAdvFeatureDemoApp.csproj.SuggestedBindingRedirects.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_6\LINQSolution\CSharpAdvFeatureDemoApp\obj\Debug\CSharpAdvFeatureDemoApp.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_6\LINQSolution\CSharpAdvFeatureDemoApp\obj\Debug\CSharpAdvFeatureDemoApp.exe
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_6\LINQSolution\CSharpAdvFeatureDemoApp\obj\Debug\CSharpAdvFeatureDemoApp.pdb

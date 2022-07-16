@@ -1,0 +1,122 @@
+
+
+
+Agenda:
+	Multithreading
+	SOA using WCF
+	asp.net security
+		Authentication & Authorization
+
+		Role based Security  Implementation in asp.net mvc application
+
+
+
+Multithreading
+
+	Application:
+		  Exeuctable code
+		  bin/debug/(.exe file or .dll file)-----Assembly
+					Executable file------.exe
+					Classlibrary---------.dll
+		   contains set of instructions
+						MSIL code
+
+	Operating System has a kernel
+		 IT uses some kernel objects
+				PRocess, Thread,
+				event, semaphore, mutex, etc.
+	  
+	Process: 
+		IT act like a container
+			keep all resources reserved which  needed for exeution of application
+			Heap ( dynamic memory allocation)
+			Code Segment
+			Data Segment
+			
+		Passive Kernel Object
+		Application under execution
+
+	Thread:
+		Active Kernel Objects
+		a path of exeuction
+
+
+		lightweight process
+
+	Synchronization Kernel Objects
+
+		event,Critical Secion, semaphore, mutex, etc.
+
+
+
+	Hardware Devices:
+		CPU--Central Processing Unit (MicroProcessor)---------------Computation
+		RAM--Random Access Memory
+				
+
+
+
+	Application project is build in two modes
+		debug mode------------contains executable code which can be used to trace runtime errors
+				      with the help of debugger.
+
+		release mode----------contains executable code which is to be deployed to customer side
+
+
+
+Process:
+	Every process created due  .net is multithreaded process.
+
+
+	Main-------primary Thread
+	GC---------Garbage Collector----Automatic memory managment
+
+
+
+Why we use multithreading ?
+			
+	simultenious exeuction
+	Executing tasks independently
+
+	Efficient Utilization of CPU
+
+
+
+
+
+Threadpool
+	 Pool of Threads kept ready for execution 
+
+
+_________________________________________________________________________________________________________
+
+
+SOA using WCF
+
+SOA: Service Oriented Architecture
+WCF: Windows Communication Founcation
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

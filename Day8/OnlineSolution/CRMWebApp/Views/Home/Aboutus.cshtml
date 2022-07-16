@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Aboutus";
+}
+<h2>Transflower Learning Home</h2>
+<hr />
+<a href="/home/index">Home</a> | <a href="/home/Aboutus">About us </a>| <a href="/home/contact">Contact us</a>| <a href="/employees/index">Employees </a>|<a href="/customers/index">Customers</a>
+<hr />
+<img src="~/Images/Transflower.jpg" width="100" height="100" />
+<h3>Transflower Learning Pvt. Ltd.</h3>
+<br />
+
+<ol>
+    <li>Online Mentoring Services</li>
+    <li>Consulting</li>
+    <li>Acts Oneline Tutor</li>
+    <li>Online Dev Camps</li>
+    <li>Corporate Trainings</li>
+</ol>
+
+@{
+    //C# Code
+    //server side Code Exeuction
+
+    int count = 56;
+    count++;
+
+    <p>Server Side data printing @count</p>
+}
+
+<button onclick="showme()">click me</button>
+
+<p id="para"> Welcome to asp.net learning</p>
+
+<script>
+    //Client Side Code
+
+    var showme = function () {
+        // alert("Kay pavhna Ram Ram");
+        var element = document.getElementById('para');
+        element.innerHTML = "Let us enjoy learning programming";
+    }
+
+</script>
+
+<!--   Razor View File-->

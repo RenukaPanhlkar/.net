@@ -1,0 +1,25 @@
+﻿
+@using CRMWebApp.Models
+
+@model IEnumerable<Customer>
+
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Transflower Learning Home</h2>
+<hr />
+<a href="/home/index">Home</a> | <a href="/home/Aboutus">About us </a>| <a href="/home/contact">Contact us</a>| <a href="/customers/index">Customers</a>
+<hr />
+
+<h4>Customers List</h4>
+
+
+<ul>
+    @{
+        foreach (Customer cst in Model)
+        {
+                 <li>@cst.Name</li>
+        }
+    }
+</ul>
+

@@ -1,0 +1,2 @@
+C:\Users\cheta\OneDrive\Desktop\ravisirsolutions\Day3\obj\Debug\CSharpFeatureDemoApp.csproj.AssemblyReference.cache
+C:\Users\cheta\OneDrive\Desktop\ravisirsolutions\Day3\obj\Debug\CSharpFeatureDemoApp.csproj.CoreCompileInputs.cache

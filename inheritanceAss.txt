@@ -1,0 +1,12 @@
+1.Create class by name Vehicle.
+It has two member brand and vehicle type.
+it has one method which shows vehicle details.
+and other by name honk.
+
+2.create class by name car.
+It has data member by name modelNmae.
+
+3.create class by name auto
+It has data member by name company name.
+
+4.Display car and auto information. 

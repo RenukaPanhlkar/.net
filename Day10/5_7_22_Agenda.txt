@@ -1,0 +1,138 @@
+
+	Todays Agenda:(
+			9:00 am  to 12:00 pm)
+		Disconnected Data Access using ado.net
+		State Management implementation in asp.net mvc
+
+
+	2:00 pm to 6:00 pm------lab session
+        5:00 pm to 6:00 pm------Theory session
+
+
+
+Remaining Topics of .net Framework module
+
+	Entity Framework (ORM)
+	Web API(Spring Boot api)
+	WCF Services (Web Services)
+	Multithreading & Thread Synchronization
+	Introduction .net Core (asp.net core 6.0)
+
+
+
+
+
+Disconnected Data Access using ado.net
+
+
+ADO.net---------ActiveX Data Object Model
+set of interfaces and set  of classes
+two modes of database connectivity
+Connected Data Access:
+
+	continous connection is kept open while performing DB Access
+	 IDbConnection : MySqlConnecdtion
+	 IDbCommand: MySqlCommand
+		Connection property
+		CommandText property
+		CommandType property
+		ExecuteReader
+		ExecuteScalar
+		ExecuteNonQuery
+	 IDataReader:MySqlDataReader------Read()
+					  Close()
+
+		try{
+			con.open();
+			...............
+			 con.close()
+			}
+		catch(MySqlException ee) {}
+		finally{}
+		
+Disconnected Data Access:
+		Efficient Connection management taken care internally
+
+				 DataSet---------Offline Result received from database server after exeucting query due Fill method
+
+		IDbDataAdapter : MySqlDataAdapter---------
+				   Fill(ds)
+				   Connection-----property
+				   Command-------property
+
+connection management has been taken care by rutime as and
+	when required.
+
+____________________________________________________________________________________________________________________________________
+
+
+Next Topic:
+
+	State Management in asp.net mvc Application
+
+	QueryString
+	Session
+	Caching
+	
+
+
+asp.net mvc application
+			------Web Application
+			------HTTP protocol handling online Application
+			
+
+
+Client Browser
+					(HTTP)
+	sends HTTPRequest1-----------> internet------> -------------->
+									WebApplication
+									  Request Processing logic
+									  Generates Response
+	Receive HTTPResponse1<-------             <------- <----------
+
+
+
+	sends HTTPRequest2-----------> internet------> -------------->
+									WebApplication
+									  Request Processing logic
+									  Generates Response
+	Receive HTTPResponse2<-------             <------- <----------
+
+
+(TCP)----->State full protocol
+
+(HTTP)-----> stateless Protocol
+
+
+
+Each Web Application is stateless by it's nature.
+Then how do  you manage information sharing between multiple requests  comming from clients
+		Online Application
+
+
+By implementing State Management Technique
+	
+
+	Client Side State management
+					(HTML 5.0)
+					local Storage
+					session Stoarage
+					WebSQL
+
+					QueryString
+					http://localhost:8888?username='ravi'&&password='seed'
+			
+	Server Side State management (ASP.NET )
+					
+					Application Variable
+					Session Variables
+					Cache
+
+
+
+
+
+
+
+
+

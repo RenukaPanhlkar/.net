@@ -1,0 +1,8 @@
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_4\DynamicSolution\EventDrivenApp\bin\Debug\EventDrivenApp.exe.config
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_4\DynamicSolution\EventDrivenApp\bin\Debug\EventDrivenApp.exe
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_4\DynamicSolution\EventDrivenApp\bin\Debug\EventDrivenApp.pdb
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_4\DynamicSolution\EventDrivenApp\obj\Debug\EventDrivenApp.csproj.AssemblyReference.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_4\DynamicSolution\EventDrivenApp\obj\Debug\EventDrivenApp.csproj.SuggestedBindingRedirects.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_4\DynamicSolution\EventDrivenApp\obj\Debug\EventDrivenApp.csproj.CoreCompileInputs.cache
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_4\DynamicSolution\EventDrivenApp\obj\Debug\EventDrivenApp.exe
+D:\RaviT\DAC\PGDAC\DAC\KnowIT_March22\Day_4\DynamicSolution\EventDrivenApp\obj\Debug\EventDrivenApp.pdb
